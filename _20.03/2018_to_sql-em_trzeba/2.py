@@ -1,0 +1,1 @@
+plik = open("2018\dane\komputery.txt", "r")
