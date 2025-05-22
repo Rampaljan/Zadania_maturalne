@@ -15,3 +15,5 @@ for line in plik:
 
 print(ile)
 
+# Output:
+# 139

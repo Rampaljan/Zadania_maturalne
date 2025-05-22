@@ -26,6 +26,8 @@ for line in plik:
 
     suma += a
 
-    print(wiersz, a)
 
 print(suma)
+
+# Output:
+# 1404

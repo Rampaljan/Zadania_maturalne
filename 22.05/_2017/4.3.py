@@ -40,4 +40,7 @@ for line in plik:
 
 
 print(ile_rownych_35, najwieksza_suma, ile_najwiekszej_sumy)
+
+#Output:
+# 4 88 2
     

@@ -12,3 +12,6 @@ for line in plik:
         ile += 1
 
 print(ile)
+
+#Output:
+#10

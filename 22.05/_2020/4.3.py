@@ -20,3 +20,10 @@ for line in plik:
     if a >= 4000 and a <= 5000:
         if is_prime(a):
             print(a)
+
+# Output:
+# 4643
+# 4973
+# 4787
+# 4673
+# 4673
